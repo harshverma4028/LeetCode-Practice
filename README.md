@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
