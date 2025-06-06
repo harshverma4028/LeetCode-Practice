@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0217-contains-duplicate) |
