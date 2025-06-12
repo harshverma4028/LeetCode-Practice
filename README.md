@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
