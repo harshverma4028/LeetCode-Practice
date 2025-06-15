@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -258,10 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
