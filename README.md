@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
