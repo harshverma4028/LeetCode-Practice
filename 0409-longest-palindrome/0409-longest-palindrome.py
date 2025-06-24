@@ -16,7 +16,7 @@ class Solution(object):
                 length += char_count - 1
                 odd_found = True
 
-        if odd_found:
+        if odd_found == True :
             return length + 1
         else:
             return length                 
