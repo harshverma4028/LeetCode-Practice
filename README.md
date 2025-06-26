@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 ## Tree
 |  |
 | ------- |
