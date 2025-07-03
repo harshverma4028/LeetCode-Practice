@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
