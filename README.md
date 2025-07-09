@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
