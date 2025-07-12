@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 ## Binary Search
 |  |
 | ------- |
