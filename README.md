@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
