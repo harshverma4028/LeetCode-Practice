@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0500-keyboard-row) |
 ## Counting
 |  |
 | ------- |
