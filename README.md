@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0506-relative-ranks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0506-relative-ranks) |
 ## Tree
 |  |
 | ------- |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
