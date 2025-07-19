@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -209,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
