@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0066-plus-one) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
