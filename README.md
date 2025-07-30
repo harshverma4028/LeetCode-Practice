@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
