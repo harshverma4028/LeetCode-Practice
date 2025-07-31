@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
