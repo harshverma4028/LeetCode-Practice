@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
+| [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
+| [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0693-binary-number-with-alternating-bits) |
+| [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0661-image-smoother) |
+| [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 ## Monotonic Stack
 |  |
 | ------- |
