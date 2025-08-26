@@ -1,7 +1,7 @@
 class Solution:
     def xorOperation(self, n: int, start: int) -> int:
-        rs = 0
-        for i in range(n):
-            rs ^= start + 2 * i
+        answer = start
+        for i in range(1,n):
+            answer  = answer ^ (start + 2 * i)
 
-        return rs            
+        return answer           
