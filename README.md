@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0415-add-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0561-array-partition) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
