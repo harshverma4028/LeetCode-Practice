@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
+| [0792-binary-search](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
