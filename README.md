@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
+| [0742-to-lower-case](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0742-to-lower-case) |
 ## Trie
 |  |
 | ------- |
