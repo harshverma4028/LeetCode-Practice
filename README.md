@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
