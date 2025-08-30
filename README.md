@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 ## Trie
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
+| [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
+| [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 ## Counting
 |  |
 | ------- |
