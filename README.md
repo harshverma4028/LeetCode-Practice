@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 ## Counting
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0817-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
