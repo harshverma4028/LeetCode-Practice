@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0890-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
