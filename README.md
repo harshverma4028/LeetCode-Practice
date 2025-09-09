@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0898-transpose-matrix) |
+| [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
 ## Tree
 |  |
 | ------- |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
 ## Counting
 |  |
 | ------- |
