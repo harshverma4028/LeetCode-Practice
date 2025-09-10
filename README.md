@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0866-rectangle-overlap) |
+| [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## String
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
+| [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0898-transpose-matrix) |
+| [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -583,4 +586,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0866-rectangle-overlap) |
+| [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
