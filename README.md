@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0866-rectangle-overlap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
+| [0944-smallest-range-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## String
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0944-smallest-range-i) |
 ## Two Pointers
 |  |
 | ------- |
