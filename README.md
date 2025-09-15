@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
 ## Tree
 |  |
 | ------- |
