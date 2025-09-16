@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0961-long-pressed-name) |
 ## Trie
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0961-long-pressed-name) |
 ## String Matching
 |  |
 | ------- |
