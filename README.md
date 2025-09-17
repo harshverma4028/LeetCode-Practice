@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0258-add-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0228-summary-ranges) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0283-move-zeroes) |
