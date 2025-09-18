@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0965-unique-email-addresses) |
+| [0978-valid-mountain-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0978-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
