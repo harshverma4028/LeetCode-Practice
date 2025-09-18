@@ -546,11 +546,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0817-design-hashmap) |
+| [0969-number-of-recent-calls](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 ## Backtracking
 |  |
 | ------- |
@@ -625,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0866-rectangle-overlap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
