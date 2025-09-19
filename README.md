@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0978-valid-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0961-long-pressed-name) |
+| [1019-squares-of-a-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
