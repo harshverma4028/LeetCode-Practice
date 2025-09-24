@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
+| [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
+| [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
 ## Counting
 |  |
 | ------- |
