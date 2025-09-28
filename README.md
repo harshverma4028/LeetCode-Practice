@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1127-last-stone-weight](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 ## Two Pointers
 |  |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 ## Counting Sort
 |  |
 | ------- |
