@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0933-increasing-order-search-tree) |
+| [1078-remove-outermost-parentheses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
