@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Sliding Window
 |  |
 | ------- |
