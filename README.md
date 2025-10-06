@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1205-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |
