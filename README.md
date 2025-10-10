@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1168-duplicate-zeros) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Counting
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Sliding Window
 |  |
