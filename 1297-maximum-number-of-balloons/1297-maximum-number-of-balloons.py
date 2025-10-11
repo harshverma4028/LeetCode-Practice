@@ -1,20 +1,30 @@
 from collections import Counter
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        text_count = Counter(text)
-        text_list = list(text)
-        count = 0
+
+        count = Counter(text)
+        return min(
+            count['b'] // 1,
+            count['a'] // 1,
+            count['l'] // 2,
+            count['o'] // 2,
+            count['n'] // 1
+        )
+
+        # text_count = Counter(text)
+        # text_list = list(text)
+        # count = 0
         
-        while "b" in text_list and "a" in text_list and text_list.count("l") >= 2 and text_list.count("o") >= 2 and "n" in text_list:
-            text_list.remove("b")
-            text_list.remove("a")
-            text_list.remove("l")
-            text_list.remove("l")
-            text_list.remove("o")
-            text_list.remove("o")
-            text_list.remove("n")
+        # while "b" in text_list and "a" in text_list and text_list.count("l") >= 2 and text_list.count("o") >= 2 and "n" in text_list:
+        #     text_list.remove("b")
+        #     text_list.remove("a")
+        #     text_list.remove("l")
+        #     text_list.remove("l")
+        #     text_list.remove("o")
+        #     text_list.remove("o")
+        #     text_list.remove("n")
 
-            count += 1
+        #     count += 1
 
 
-        return count
+        # return count
