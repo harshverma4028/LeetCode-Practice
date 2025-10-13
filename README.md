@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1454-remove-palindromic-subsequences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1454-remove-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1168-duplicate-zeros) |
+| [1454-remove-palindromic-subsequences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1454-remove-palindromic-subsequences) |
 ## String Matching
 |  |
 | ------- |
