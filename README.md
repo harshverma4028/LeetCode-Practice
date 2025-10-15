@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0953-reverse-only-letters) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0898-transpose-matrix) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
