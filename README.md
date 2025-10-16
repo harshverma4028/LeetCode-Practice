@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 | [1610-xor-operation-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
