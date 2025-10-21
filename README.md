@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1610-xor-operation-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1287-distance-between-bus-stops) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1041-available-captures-for-rook) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
