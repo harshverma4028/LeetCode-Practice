@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0978-valid-mountain-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1041-available-captures-for-rook](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1041-available-captures-for-rook) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1341-split-a-string-in-balanced-strings) |
