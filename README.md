@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1031-add-to-array-form-of-integer) |
+| [1115-valid-boomerang](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1115-valid-boomerang](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1168-duplicate-zeros) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0866-rectangle-overlap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
+| [1115-valid-boomerang](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1395-minimum-time-visiting-all-points) |
 ## Data Stream
