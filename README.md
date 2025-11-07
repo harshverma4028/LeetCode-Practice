@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1532-reformat-the-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1542-consecutive-characters) |
+| [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 ## Trie
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1524-string-matching-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 ## Two Pointers
 |  |
 | ------- |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1297-maximum-number-of-balloons) |
 | [1472-increasing-decreasing-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1472-increasing-decreasing-string) |
+| [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 ## Counting
 |  |
 | ------- |
