@@ -2,12 +2,8 @@ class Solution:
     def destCity(self, paths: List[List[str]]) -> str:
         citya = set()
         for i in range(len(paths)):
-            for j in range(2):
-                if j == 0:
-                    citya.add(paths[i][j])
+            citya.add(paths[i][0])
         
         for i in range(len(paths)):
-            for j in range(2):
-                if j == 1:
-                    if paths[i][j] not in citya:
-                        return paths[i][j]
+            if paths[i][1] not in citya:
+                return paths[i][1]
