@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1241-decompress-run-length-encoded-list) |
+| [1256-rank-transform-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1287-distance-between-bus-stops) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
+| [1256-rank-transform-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1256-rank-transform-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1297-maximum-number-of-balloons) |
 | [1472-increasing-decreasing-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
