@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 ## Two Pointers
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1472-increasing-decreasing-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 ## Counting
 |  |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Function
 |  |
 | ------- |
