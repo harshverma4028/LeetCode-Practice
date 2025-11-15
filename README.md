@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0924-fair-candy-swap) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [1041-available-captures-for-rook](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1041-available-captures-for-rook) |
 | [1386-shift-2d-grid](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1386-shift-2d-grid) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Monotonic Stack
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
