@@ -11,6 +11,7 @@ class Solution:
                 B_moves.add(my_tuple)
 
 
+
         winning_patterns = [
         {(0,0), (0,1), (0,2)},   
         {(1,0), (1,1), (1,2)},    
@@ -23,6 +24,8 @@ class Solution:
         {(0,0), (1,1), (2,2)},    
         {(0,2), (1,1), (2,0)}     
         ]
+
+
 
         for pattern in winning_patterns:
             if pattern.issubset(A_moves):
