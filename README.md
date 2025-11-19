@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Counting
 |  |
 | ------- |
