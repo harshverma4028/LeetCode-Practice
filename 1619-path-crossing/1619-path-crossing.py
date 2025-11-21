@@ -2,12 +2,10 @@ class Solution:
     def isPathCrossing(self, path: str) -> bool:
         x = y = 0
         visited = set()
-
+        visited.add((0,0))
         for chr in path:
-            visited.add((0,0))
             if chr == "N":
                 y += 1
-            
             elif chr == "S":
                 y -= 1
             elif chr == "E":
