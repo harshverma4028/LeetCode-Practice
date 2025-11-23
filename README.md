@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Trie
 |  |
 | ------- |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Counting
 |  |
 | ------- |
