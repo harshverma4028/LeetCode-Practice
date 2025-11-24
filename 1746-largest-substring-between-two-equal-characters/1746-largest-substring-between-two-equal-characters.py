@@ -1,5 +1,6 @@
 class Solution:
     def maxLengthBetweenEqualCharacters(self, s: str) -> int:
+        
         lar = -1
         rec = {}
         for i in range(len(s)):
@@ -7,6 +8,7 @@ class Solution:
                 rec[s[i]] = i
             else:
                 lar = max(lar,(i -  rec[s[i]]-1))
+
 
 
 
