@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Trie
 |  |
 | ------- |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
 | ------- |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
 | ------- |
