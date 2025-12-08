@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
@@ -824,4 +825,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0969-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
