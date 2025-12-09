@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1646-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
