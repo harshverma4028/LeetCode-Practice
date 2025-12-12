@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1666-make-the-string-great) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
