@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1666-make-the-string-great) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
