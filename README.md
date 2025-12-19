@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
