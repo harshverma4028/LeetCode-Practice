@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 ## Two Pointers
 |  |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
