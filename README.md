@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
 ## Counting
 |  |
 | ------- |
@@ -864,4 +866,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1656-count-good-triplets) |
+| [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
