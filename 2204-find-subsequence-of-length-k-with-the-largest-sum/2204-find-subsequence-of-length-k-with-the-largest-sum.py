@@ -6,7 +6,7 @@ class Solution:
             res.append((nums[i],i))
 
         res.sort(reverse=True)
-        
+
         topk = res[:k]
 
         topk.sort(key=lambda x: x[1])
