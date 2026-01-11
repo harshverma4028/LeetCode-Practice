@@ -1,18 +1,29 @@
 class Solution:
     def maxSubsequence(self, nums: List[int], k: int) -> List[int]:
-        res = []
+        heap = []
 
-        for i in range(len(nums)):
-            res.append((nums[i],i))
+        for i, val in enumerate(nums):
+            heapq.heappush(heap, (val, i))
+            if len(heap) > k:
+                heapq.heappop(heap)
 
-        res.sort(reverse=True)
+        heap.sort(key=lambda x: x[1])
 
-        topk = res[:k]
+        return [val for val, idx in heap]
 
-        topk.sort(key=lambda x: x[1])
+        # res = []
 
-        arr = []
-        for val,idx in topk:
-            arr.append(val)
+        # for i in range(len(nums)):
+        #     res.append((nums[i],i))
 
-        return arr
+        # res.sort(reverse=True)
+
+        # topk = res[:k]
+
+        # topk.sort(key=lambda x: x[1])
+
+        # arr = []
+        # for val,idx in topk:
+        #     arr.append(val)
+
+        # return arr
