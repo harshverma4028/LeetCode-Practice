@@ -3,7 +3,7 @@ class Solution:
         n = set(nums)
 
         while True:
-            if original not in nums:
+            if original not in n:
                 return original
             
             original *= 2
