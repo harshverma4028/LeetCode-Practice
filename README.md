@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2226-rings-and-rods) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2401-count-asterisks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2401-count-asterisks) |
 ## Trie
 |  |
 | ------- |
