@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2401-count-asterisks) |
+| [2406-decode-the-message](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2406-decode-the-message) |
 ## Trie
 |  |
 | ------- |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2406-decode-the-message](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2406-decode-the-message) |
 ## Counting
 |  |
 | ------- |
