@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
 ## Trie
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
