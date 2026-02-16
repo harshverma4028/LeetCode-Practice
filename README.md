@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2427-first-letter-to-appear-twice) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Sliding Window
 |  |
 | ------- |
