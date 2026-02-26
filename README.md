@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2580-circular-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2825-minimize-string-length) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2825-minimize-string-length) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
 | ------- |
