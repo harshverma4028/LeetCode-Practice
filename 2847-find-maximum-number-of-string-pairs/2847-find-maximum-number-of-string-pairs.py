@@ -1,6 +1,7 @@
 class Solution:
     def maximumNumberOfStringPairs(self, words: List[str]) -> int:
         
+
         s = set()
         count = 0
 
@@ -9,5 +10,6 @@ class Solution:
                 count += 1
             else:
                 s.add(char)
+
 
         return count
