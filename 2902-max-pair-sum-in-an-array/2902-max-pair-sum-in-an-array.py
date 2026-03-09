@@ -1,6 +1,7 @@
 class Solution:
     def maxSum(self, nums: List[int]) -> int:
 
+
         ans = -1
         n = len(nums)
 
@@ -11,6 +12,7 @@ class Solution:
                     ans = max(ans, nums[i] + nums[j])
 
         return ans
+
 
         ## optimal approach
 
