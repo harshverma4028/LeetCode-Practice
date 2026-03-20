@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1666-make-the-string-great) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1714-rearrange-spaces-between-words) |
+| [1720-crawler-log-folder](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1720-crawler-log-folder) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1720-crawler-log-folder) |
 ## Linked List
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1720-crawler-log-folder](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
