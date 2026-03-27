@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1720-crawler-log-folder) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
