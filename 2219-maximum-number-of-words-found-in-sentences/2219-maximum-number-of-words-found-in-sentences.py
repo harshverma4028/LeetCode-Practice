@@ -8,7 +8,7 @@ class Solution:
                 if i == " ":
                     j += 1
                 
-                if j > hi:
+            if j > hi:
                     hi = j
                 
         return hi
