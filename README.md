@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## String
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
