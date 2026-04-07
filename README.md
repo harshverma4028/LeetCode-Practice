@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1306-minimum-absolute-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
