@@ -4,4 +4,5 @@ class Solution:
             if word == word[::-1]:
                 return word
                 
+                
         return ""
