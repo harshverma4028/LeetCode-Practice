@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
+| [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
