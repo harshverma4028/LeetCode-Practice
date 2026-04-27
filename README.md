@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2825-minimize-string-length](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2881-split-strings-by-separator) |
 ## Trie
 |  |
 | ------- |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 ## Two Pointers
