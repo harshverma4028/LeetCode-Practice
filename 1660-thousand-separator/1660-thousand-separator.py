@@ -11,5 +11,6 @@ class Solution:
             count += 1
             l.append(s[i])
 
+
         l.reverse()
         return "".join(l)
