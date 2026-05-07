@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
 ## Binary Search Tree
 |  |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0240-search-a-2d-matrix-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0661-image-smoother) |
