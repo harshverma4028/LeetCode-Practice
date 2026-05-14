@@ -33,5 +33,6 @@ class Solution:
                 if freq2[ch] > 3:
                     return False
         
+
         return True
 
