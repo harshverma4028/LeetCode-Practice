@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2159-two-out-of-three) |
