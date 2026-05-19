@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0412-fizz-buzz) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
