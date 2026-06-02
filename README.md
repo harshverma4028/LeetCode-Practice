@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2401-count-asterisks) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1769-get-maximum-in-generated-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1769-get-maximum-in-generated-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
