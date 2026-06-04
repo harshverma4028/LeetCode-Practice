@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 ## Counting
 |  |
 | ------- |
@@ -982,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 ## Matrix
 |  |
 | ------- |
