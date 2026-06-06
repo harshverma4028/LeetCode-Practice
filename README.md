@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3019-furthest-point-from-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3019-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
+| [3019-furthest-point-from-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3019-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
