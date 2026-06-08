@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0189-rotate-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0268-missing-number) |
