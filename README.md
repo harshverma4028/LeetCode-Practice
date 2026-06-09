@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1970-sorting-the-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
