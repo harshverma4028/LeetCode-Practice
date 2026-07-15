@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0118-pascals-triangle) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
