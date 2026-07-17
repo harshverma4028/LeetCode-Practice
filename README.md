@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
