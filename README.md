@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2870-longest-alternating-subarray](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2870-longest-alternating-subarray) |
 | [2881-split-strings-by-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2881-split-strings-by-separator) |
@@ -1071,5 +1072,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2870-longest-alternating-subarray) |
 <!---LeetCode Topics End-->
