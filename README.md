@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1944-truncate-sentence) |
+| [1983-maximum-population-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1983-maximum-population-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1983-maximum-population-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 ## Matrix
