@@ -5,15 +5,18 @@ class Solution:
 
         diff = [0] * size
 
+
         # Mark changes
         for birth, death in logs:
             diff[birth - base] += 1
             diff[death - base] -= 1   # death is exclusive
 
+
         # Prefix sum + track max
         max_pop = 0
         curr = 0
         year = base
+
 
         for i in range(size):
             curr += diff[i]
