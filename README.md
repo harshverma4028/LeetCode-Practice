@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1395-minimum-time-visiting-all-points) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1610-xor-operation-in-an-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
