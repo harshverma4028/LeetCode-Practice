@@ -1091,4 +1091,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2870-longest-alternating-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
