@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3019-furthest-point-from-origin) |
 | [3396-valid-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2886-faulty-keyboard) |
+| [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
