@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Trie
 |  |
 | ------- |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Prefix Sum
 |  |
 | ------- |
