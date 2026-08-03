@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Trie
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2561-number-of-distinct-averages) |
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
+| [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Tree
 |  |
 | ------- |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
