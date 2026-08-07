@@ -5,6 +5,7 @@ class Solution:
         arr2.sort()
         count = 0
         
+        
         for x in arr1:
             i = bisect.bisect_left(arr2, x)
             
