@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2190-count-common-words-with-one-occurrence) |
