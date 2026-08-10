@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
