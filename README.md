@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Counting
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3019-furthest-point-from-origin) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
