@@ -1,9 +1,25 @@
-from collections import Counter
+
 class Solution:
     def maxFrequencyElements(self, nums: List[int]) -> int:
         
-        counts = Counter(nums)
+        freq = {}
 
-        max_freq = max(counts.values())
+        for num in nums:
+            if num in freq:
+                freq[num] += 1
+            else:
+                freq[num] = 1
 
-        return sum(freq for freq in counts.values() if freq == max_freq)
+        max_freq = 0
+
+        for num in freq:
+            if freq[num] > max_freq:
+                max_freq = freq[num]
+
+        ans = 0
+
+        for num in freq:
+            if freq[num] == max_freq:
+                ans += freq[num]
+
+        return ans
