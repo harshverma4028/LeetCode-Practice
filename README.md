@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3636-check-balanced-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3636-check-balanced-string) |
 | [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Trie
 |  |
