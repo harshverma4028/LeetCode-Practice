@@ -1,11 +1,11 @@
 class Solution:
     def isBalanced(self, num: str) -> bool:
-        o = e = 0
+        even = odd = 0
 
-        for i in range(len(num)):
-            if i%2 == 0:
-                e += int(num[i])
+        for i, ch in enumerate(num):
+            if i % 2 == 0:
+                even += int(ch)
             else:
-                o += int(num[i])
+                odd += int(ch)
 
-        return o == e
+        return even == odd
