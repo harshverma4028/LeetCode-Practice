@@ -8,4 +8,5 @@ class Solution:
             else:
                 odd += int(ch)
 
+
         return even == odd
