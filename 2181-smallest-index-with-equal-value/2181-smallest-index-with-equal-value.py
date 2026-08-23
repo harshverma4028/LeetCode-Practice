@@ -6,4 +6,5 @@ class Solution:
             if i % 10 == nums[i]:
                 return i
             
+            
         return res
