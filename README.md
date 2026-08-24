@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-strong-password-checker-ii](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2391-strong-password-checker-ii) |
