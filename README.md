@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2727-number-of-senior-citizens) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2881-split-strings-by-separator) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Prefix Sum
 |  |
