@@ -11,4 +11,5 @@ class Solution:
                     if grid[i][j] != 0:
                         return False
 
+
         return True
