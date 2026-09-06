@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2547-odd-string-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2547-odd-string-difference) |
 | [2580-circular-sentence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2547-odd-string-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2561-number-of-distinct-averages) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2547-odd-string-difference](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
