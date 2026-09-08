@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
