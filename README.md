@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Prefix Sum
