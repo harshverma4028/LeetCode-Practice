@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3636-check-balanced-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 ## Trie
 |  |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3533-snake-in-matrix) |
+| [3893-generate-tag-for-video-caption](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3893-generate-tag-for-video-caption) |
 ## Binary Search
 |  |
 | ------- |
