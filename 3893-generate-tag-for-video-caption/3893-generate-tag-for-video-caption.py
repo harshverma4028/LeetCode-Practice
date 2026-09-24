@@ -2,7 +2,9 @@ class Solution:
     def generateTag(self, caption: str) -> str:
         words = caption.split()
 
+
         res = "#"
+
 
         for i in range(len(words)):
             if i == 0:
