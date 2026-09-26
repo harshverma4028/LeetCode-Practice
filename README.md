@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2727-number-of-senior-citizens](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2825-minimize-string-length) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2870-longest-alternating-subarray) |
 ## Database
