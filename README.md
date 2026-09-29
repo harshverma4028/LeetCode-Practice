@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## String
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 ## Interactive
 |  |
@@ -1171,4 +1174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
