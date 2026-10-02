@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2058-concatenation-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1769-get-maximum-in-generated-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1769-get-maximum-in-generated-array) |
+| [2058-concatenation-of-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
