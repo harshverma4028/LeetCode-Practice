@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1651-shuffle-string) |
