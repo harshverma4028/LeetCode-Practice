@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3636-check-balanced-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
+| [4052-equal-score-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/4052-equal-score-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
+| [4052-equal-score-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/4052-equal-score-substrings) |
 ## Matrix
 |  |
 | ------- |
