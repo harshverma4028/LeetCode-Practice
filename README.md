@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3447-clear-digits) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3533-snake-in-matrix) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3636-check-balanced-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3636-check-balanced-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Design
 |  |
 | ------- |
