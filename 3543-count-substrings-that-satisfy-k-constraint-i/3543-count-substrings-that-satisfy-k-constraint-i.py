@@ -1,18 +1,16 @@
 class Solution:
     def countKConstraintSubstrings(self, s: str, k: int) -> int:
-        res = 0
+        res = 0 
 
         for i in range(len(s)):
-            zeros = 0
-            ones = 0
-
-            for j in range(i, len(s)):
+            one = 0 
+            zero = 0
+            for j in range(i,len(s)):
                 if s[j] == "0":
-                    zeros += 1
+                    zero += 1
                 else:
-                    ones += 1
+                    one += 1
 
-                if zeros <= k or ones <= k:
+                if zero <= k or one <= k:
                     res += 1
-
         return res
