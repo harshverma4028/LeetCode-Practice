@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3312-number-of-changing-keys](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3312-number-of-changing-keys) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3379-score-of-a-string) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1873-longest-nice-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Design
 |  |
