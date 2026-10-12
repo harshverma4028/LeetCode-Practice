@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2639-separate-the-digits-in-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2727-number-of-senior-citizens](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2727-number-of-senior-citizens) |
@@ -1122,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
