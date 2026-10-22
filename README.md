@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3024-type-of-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3024-type-of-triangle) |
+| [3033-modify-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3033-modify-the-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3194-find-words-containing-character](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -1127,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2643-row-with-maximum-ones) |
+| [3033-modify-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3033-modify-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
