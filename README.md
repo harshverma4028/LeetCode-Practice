@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1115-valid-boomerang) |
+| [1175-prime-arrangements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1175-prime-arrangements) |
 | [1236-n-th-tribonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
@@ -1207,4 +1208,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3024-type-of-triangle) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
