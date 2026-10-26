@@ -4,6 +4,7 @@ class Solution:
         MOD = 10**9 + 7
         prime_count = 0
 
+
         for num in range(2, n + 1):
             is_prime = True
 
