@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1115-valid-boomerang) |
+| [1154-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1175-prime-arrangements) |
 | [1236-n-th-tribonacci-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1154-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1154-day-of-the-year) |
 | [1156-occurrences-after-bigram](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1260-day-of-the-year) |
