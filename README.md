@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2181-smallest-index-with-equal-value) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1764-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
