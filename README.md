@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2848-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2848-points-that-intersect-with-cars) |
 | [2870-longest-alternating-subarray](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2870-longest-alternating-subarray) |
 | [2881-split-strings-by-separator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2825-minimize-string-length) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2848-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2848-points-that-intersect-with-cars) |
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/harshverma4028/LeetCode-Practice/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2848-points-that-intersect-with-cars) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 | [4052-equal-score-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/4052-equal-score-substrings) |
 ## Matrix
