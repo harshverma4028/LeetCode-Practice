@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3533-snake-in-matrix) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3636-check-balanced-string](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3636-check-balanced-string) |
+| [3798-largest-even-number](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3798-largest-even-number) |
 | [3893-generate-tag-for-video-caption](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3893-generate-tag-for-video-caption) |
 | [3934-coupon-code-validator](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3934-coupon-code-validator) |
 | [4052-equal-score-substrings](https://github.com/harshverma4028/LeetCode-Practice/tree/master/4052-equal-score-substrings) |
