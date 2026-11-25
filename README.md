@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3033-modify-the-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
+| [3046-split-the-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3046-split-the-array) |
 | [3194-find-words-containing-character](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3034-points-that-intersect-with-cars) |
+| [3046-split-the-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3046-split-the-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/harshverma4028/LeetCode-Practice/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3019-furthest-point-from-origin) |
+| [3046-split-the-array](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3046-split-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/harshverma4028/LeetCode-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
